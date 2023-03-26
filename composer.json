@@ -1,0 +1,22 @@
+{
+    "name": "code4v/practice_mvcframework",
+    "autoload": {
+        "psr-4": {
+            "Code4v\\PracticeMvcframework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jeanne Francis Rivas",
+            "email": "vashypies@gmail.com"
+        }
+    ],
+    "autoload" :{
+        "psr-4": {
+            "App\\": "./"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
